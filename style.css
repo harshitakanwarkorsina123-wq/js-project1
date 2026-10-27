@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.btn{
+    height:180px;
+    width:200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1.5rem;
+    margin-top: -15px;
+}
+.btnpart{
+    display: flex;
+    justify-content: center;
+}
+.aqua{
+background-color: aquamarine;
+}
+.brown{
+   background-color: brown;
+}
+
+.orange{
+        background-color: orange;
+}
+.red{
+   background-color: indianred;
+
+}
+.flash{
+    background-color: aliceblue;
+}
+.userflash{
+    background-color: green;
+}
